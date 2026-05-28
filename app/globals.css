@@ -32,3 +32,19 @@ body {
   font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
+
+.legal-body a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+.legal-body a:hover {
+  color: var(--accent-hover);
+}
+
+.legal-body strong {
+  color: var(--foreground);
+  font-weight: 500;
+}
