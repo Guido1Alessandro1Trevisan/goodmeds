@@ -18,8 +18,12 @@
   --color-accent-hover: var(--accent-hover);
   --color-border: var(--border);
   --color-card: var(--card);
-  --font-sans: var(--font-geist-sans);
-  --font-serif: var(--font-instrument-serif);
+  /* Body — Red Hat Text (humanist sans), matches MEDVi. */
+  --font-sans: var(--font-red-hat-text);
+  /* Display — Montserrat (geometric sans). Kept the "serif" name so existing
+     font-serif classes throughout the codebase remap to it without touching
+     every component. */
+  --font-serif: var(--font-montserrat);
 }
 
 html,
@@ -29,7 +33,8 @@ body {
 }
 
 body {
-  font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-red-hat-text), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: -0.01em;
   -webkit-font-smoothing: antialiased;
 }
 

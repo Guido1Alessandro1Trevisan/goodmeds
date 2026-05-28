@@ -12,7 +12,7 @@
 export const TECH_COMPANY = {
   legalName: "Opero Labs, Inc.",
   shortName: "Opero Labs",
-  brand: "goodmeds",
+  brand: "GoodMeds",
   formationState: "Delaware",
   formationDate: "June 16, 2025",
   mailingAddress: {
