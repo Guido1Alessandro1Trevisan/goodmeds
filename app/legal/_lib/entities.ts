@@ -48,17 +48,6 @@ export const MEDICAL_GROUP = {
   descriptiveName: "an affiliated US medical group",
 } as const;
 
-/**
- * Our white-label clinical infrastructure partner — supplies the medical
- * group / Professional Corporation, the 50-state licensed clinician network,
- * the HIPAA-compliant EHR, and (typically) the compounding-pharmacy
- * relationships we operate on top of.
- */
-export const CLINICAL_PARTNER = {
-  name: "CareValidate",
-  url: "https://www.carevalidate.com",
-} as const;
-
 export const PRODUCT_URL = "https://goodmeds.org";
 
 /**
