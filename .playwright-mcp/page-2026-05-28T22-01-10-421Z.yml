@@ -1,0 +1,937 @@
+- main [ref=e6]:
+  - generic [ref=e7]:
+    - complementary [ref=e8]:
+      - link "FDA-approved GLP-1s at their lowest prices. See if you qualify" [ref=e9] [cursor=pointer]:
+        - /url: https://start.ro.co/fdalgd/?utm_term=promo_bar_cs&ro_term=promo_bar_cs
+        - paragraph [ref=e11]: FDA-approved GLP-1s at their lowest prices. See if you qualify
+    - link "Skip to main content" [ref=e12] [cursor=pointer]:
+      - /url: "#skip-nav-target"
+    - navigation "Main menu" [ref=e13]:
+      - generic [ref=e17]:
+        - link "Ro" [ref=e19] [cursor=pointer]:
+          - /url: /
+          - img "Ro" [ref=e20]
+        - navigation [ref=e23]:
+          - tablist [ref=e24]:
+            - tab "Weight Loss" [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]: Weight Loss
+            - tab "Sexual Health" [ref=e27] [cursor=pointer]:
+              - generic [ref=e28]: Sexual Health
+            - tab "Fertility" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: Fertility
+            - tab "Hair" [ref=e31] [cursor=pointer]:
+              - generic [ref=e32]: Hair
+            - tab "Skin" [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: Skin
+            - tab "Daily Health" [ref=e35] [cursor=pointer]:
+              - generic [ref=e36]: Daily Health
+            - tab "Top Products" [ref=e37] [cursor=pointer]:
+              - generic [ref=e38]: Top Products
+            - tab "What We Treat" [ref=e39] [cursor=pointer]:
+              - generic [ref=e40]: What We Treat
+        - link "Log in" [ref=e42] [cursor=pointer]:
+          - /url: /my/home/
+    - generic [ref=e48]:
+      - paragraph [ref=e49]: Healthier on Ro
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - paragraph [ref=e57]: Trusted by millions on Ro for GLP-1s
+        - listitem [ref=e58]:
+          - paragraph [ref=e62]: Real providers, FDA-approved options
+        - listitem [ref=e63]:
+          - paragraph [ref=e68]: Lowest cost GLP-1s, with or without insurance
+        - listitem [ref=e69]:
+          - paragraph [ref=e74]: Get started 100% online
+    - generic [ref=e77]:
+      - link "New GLP‑1 options on Ro Start now" [ref=e78] [cursor=pointer]:
+        - /url: /lp/weight-loss/quiz/
+        - heading "New GLP‑1 options on Ro" [level=2] [ref=e81]
+        - generic [ref=e84]:
+          - generic:
+            - generic:
+              - generic: Start now
+              - img
+      - link "Lose weight on GLP-1s Start now" [ref=e87] [cursor=pointer]:
+        - /url: /lp/weight-loss/quiz/
+        - heading "Lose weight on GLP-1s" [level=2] [ref=e90]
+        - generic [ref=e93]:
+          - generic:
+            - generic:
+              - generic: Start now
+              - img
+      - link "Start your FREE insurance check" [ref=e96] [cursor=pointer]:
+        - /url: /weight-loss/glp1-insurance-checker/signup/
+        - heading "Start your FREE insurance check" [level=2] [ref=e99]
+        - generic [ref=e102]:
+          - generic:
+            - generic:
+              - img
+      - link "Explore Serena's health journey" [ref=e105] [cursor=pointer]:
+        - /url: /weight-loss/serena/
+        - heading "Explore Serena's health journey" [level=2] [ref=e108]
+        - generic [ref=e111]:
+          - generic:
+            - generic:
+              - img
+      - link "Get GLP-1s with TrumpRx pricing" [ref=e114] [cursor=pointer]:
+        - /url: /lp/weight-loss/quiz/
+        - heading "Get GLP-1s with TrumpRx pricing" [level=2] [ref=e117]
+        - generic [ref=e120]:
+          - generic:
+            - generic:
+              - img
+    - generic [ref=e128]:
+      - heading "Drop 20% of your weight and keep it off" [level=2] [ref=e130]
+      - link "Start losing weight" [ref=e133] [cursor=pointer]:
+        - /url: https://start.ro.co/fdalgd/online-visit/10
+        - generic [ref=e134]:
+          - generic:
+            - generic:
+              - text: Start losing weight
+              - img
+    - generic [ref=e138]:
+      - region "Carousel" [ref=e142]:
+        - generic [ref=e143]:
+          - tabpanel "1 of 6" [ref=e144]:
+            - generic [ref=e145]:
+              - link "Learn more" [ref=e146] [cursor=pointer]:
+                - /url: /weight-loss/wegovy-pill/
+              - generic [ref=e150]:
+                - generic [ref=e153]:
+                  - paragraph [ref=e155]:
+                    - img [ref=e156]
+                    - text: In stock via Ro
+                  - link "Learn more" [ref=e158] [cursor=pointer]:
+                    - /url: /weight-loss/wegovy-pill/
+                    - heading "Wegovy® pill" [level=3] [ref=e159]
+                  - paragraph [ref=e160]: semaglutide
+                - generic [ref=e161]:
+                  - generic [ref=e162]:
+                    - link "Get started" [ref=e163] [cursor=pointer]:
+                      - /url: https://start.ro.co/fdalgd/
+                      - generic [ref=e164]:
+                        - generic: Get started
+                    - link "Learn more" [ref=e167] [cursor=pointer]:
+                      - /url: /weight-loss/wegovy-pill/
+                      - generic [ref=e168]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e171] [cursor=pointer]:
+                    - /url: /safety-info/glp1/
+          - tabpanel "2 of 6" [ref=e172]:
+            - generic [ref=e173]:
+              - link "Learn more" [ref=e174] [cursor=pointer]:
+                - /url: /weight-loss/zepbound/
+                - paragraph [ref=e179]: New
+              - generic [ref=e180]:
+                - generic [ref=e183]:
+                  - paragraph [ref=e185]:
+                    - img [ref=e186]
+                    - text: New and in stock
+                  - link "Learn more" [ref=e188] [cursor=pointer]:
+                    - /url: /weight-loss/zepbound/
+                    - heading "Zepbound® KwikPen®" [level=3] [ref=e189]
+                  - paragraph [ref=e190]: tirzepatide
+                - generic [ref=e191]:
+                  - generic [ref=e192]:
+                    - link "Get started" [ref=e193] [cursor=pointer]:
+                      - /url: https://start.ro.co/fdalgd/
+                      - generic [ref=e194]:
+                        - generic: Get started
+                    - link "Learn more" [ref=e197] [cursor=pointer]:
+                      - /url: /weight-loss/zepbound/
+                      - generic [ref=e198]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e201] [cursor=pointer]:
+                    - /url: /safety-info/glp1/
+          - tabpanel "3 of 6" [ref=e202]:
+            - generic [ref=e203]:
+              - link "Learn more" [ref=e204] [cursor=pointer]:
+                - /url: /weight-loss/foundayo/
+                - paragraph [ref=e209]: New
+              - generic [ref=e210]:
+                - generic [ref=e213]:
+                  - paragraph [ref=e215]:
+                    - img [ref=e216]
+                    - text: New and in stock
+                  - link "Learn more" [ref=e218] [cursor=pointer]:
+                    - /url: /weight-loss/foundayo/
+                    - heading "Foundayo™ pill" [level=3] [ref=e219]
+                  - paragraph [ref=e220]: orforglipron
+                - generic [ref=e221]:
+                  - generic [ref=e222]:
+                    - link "Get started" [ref=e223] [cursor=pointer]:
+                      - /url: https://start.ro.co/fdalgd/
+                      - generic [ref=e224]:
+                        - generic: Get started
+                    - link "Learn more" [ref=e227] [cursor=pointer]:
+                      - /url: /weight-loss/foundayo/
+                      - generic [ref=e228]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e231] [cursor=pointer]:
+                    - /url: /safety-info/glp1/
+          - tabpanel "4 of 6" [ref=e232]:
+            - generic [ref=e233]:
+              - link "Learn more" [ref=e234] [cursor=pointer]:
+                - /url: /weight-loss/wegovy/
+                - paragraph [ref=e239]: New dose
+              - generic [ref=e240]:
+                - generic [ref=e243]:
+                  - paragraph [ref=e245]:
+                    - img [ref=e246]
+                    - text: In stock via Ro
+                  - link "Learn more" [ref=e248] [cursor=pointer]:
+                    - /url: /weight-loss/wegovy/
+                    - heading "Wegovy® pen" [level=3] [ref=e249]
+                  - paragraph [ref=e250]: semaglutide
+                - generic [ref=e251]:
+                  - generic [ref=e252]:
+                    - link "Get started" [ref=e253] [cursor=pointer]:
+                      - /url: https://start.ro.co/fdalgd/
+                      - generic [ref=e254]:
+                        - generic: Get started
+                    - link "Learn more" [ref=e257] [cursor=pointer]:
+                      - /url: /weight-loss/wegovy/
+                      - generic [ref=e258]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e261] [cursor=pointer]:
+                    - /url: /safety-info/glp1/
+          - tabpanel "5 of 6" [ref=e262]:
+            - generic [ref=e263]:
+              - link "Learn more" [ref=e264] [cursor=pointer]:
+                - /url: /weight-loss/zepbound/
+              - generic [ref=e268]:
+                - generic [ref=e271]:
+                  - paragraph [ref=e273]:
+                    - img [ref=e274]
+                    - text: Supply available
+                  - link "Learn more" [ref=e276] [cursor=pointer]:
+                    - /url: /weight-loss/zepbound/
+                    - heading "Zepbound®" [level=3] [ref=e277]
+                  - paragraph [ref=e278]: tirzepatide
+                - generic [ref=e279]:
+                  - generic [ref=e280]:
+                    - link "Get started" [ref=e281] [cursor=pointer]:
+                      - /url: https://start.ro.co/fdalgd/
+                      - generic [ref=e282]:
+                        - generic: Get started
+                    - link "Learn more" [ref=e285] [cursor=pointer]:
+                      - /url: /weight-loss/zepbound/
+                      - generic [ref=e286]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e289] [cursor=pointer]:
+                    - /url: /safety-info/glp1/
+          - tabpanel "6 of 6" [ref=e290]:
+            - generic [ref=e291]:
+              - link "Learn more" [ref=e292] [cursor=pointer]:
+                - /url: /weight-loss/ozempic/
+              - generic [ref=e296]:
+                - generic [ref=e299]:
+                  - paragraph [ref=e301]:
+                    - img [ref=e302]
+                    - text: Supply available
+                  - link "Learn more" [ref=e304] [cursor=pointer]:
+                    - /url: /weight-loss/ozempic/
+                    - heading "Ozempic®" [level=3] [ref=e305]
+                  - paragraph [ref=e306]: semaglutide
+                - generic [ref=e307]:
+                  - generic [ref=e308]:
+                    - link "Get started" [ref=e309] [cursor=pointer]:
+                      - /url: https://start.ro.co/fdalgd/
+                      - generic [ref=e310]:
+                        - generic: Get started
+                    - link "Learn more" [ref=e313] [cursor=pointer]:
+                      - /url: /weight-loss/ozempic/
+                      - generic [ref=e314]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e317] [cursor=pointer]:
+                    - /url: /safety-info/glp1/
+      - generic [ref=e319]:
+        - paragraph [ref=e320]: Ozempic is FDA-approved for type 2 diabetes treatment, but may be prescribed off-label for weight loss at a healthcare provider's discretion.
+        - paragraph [ref=e321]:
+          - strong [ref=e322]: "Safety info:"
+          - text: GLP-1 medications may have serious side effects, including possible thyroid tumors. Do not use if you or your family have a history of a type of thyroid cancer called MTC or MEN 2. See more serious warnings & fuller safety info
+          - link "here" [ref=e323] [cursor=pointer]:
+            - /url: /safety-info/glp1/
+          - text: .
+    - generic [ref=e329]:
+      - heading "Better sex with fast-acting, long-lasting Ro Sparks" [level=2] [ref=e331]
+      - link "Get started" [ref=e334] [cursor=pointer]:
+        - /url: /erectile-dysfunction/sparks/
+        - generic [ref=e335]:
+          - generic:
+            - generic:
+              - text: Get started
+              - img
+    - generic [ref=e339]:
+      - region "Carousel" [ref=e343]:
+        - generic [ref=e344]:
+          - tabpanel "1 of 6" [ref=e345]:
+            - generic [ref=e346]:
+              - link "Learn more" [ref=e347] [cursor=pointer]:
+                - /url: /erectile-dysfunction/sparks/
+                - paragraph [ref=e352]: Best seller
+              - generic [ref=e354]:
+                - generic [ref=e357]:
+                  - link "Learn more" [ref=e358] [cursor=pointer]:
+                    - /url: /erectile-dysfunction/sparks/
+                    - heading "Ro Sparks" [level=3] [ref=e359]
+                  - paragraph [ref=e360]: Works in 15 minutes*, lasts for 36 hours
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - link "Get Started" [ref=e363] [cursor=pointer]:
+                      - /url: https://start.ro.co/pyiozp?c=97f3b8214e9c1d0a5b8e7df63a2c4e19
+                      - generic [ref=e364]:
+                        - generic: Get Started
+                    - link "Learn more" [ref=e367] [cursor=pointer]:
+                      - /url: /erectile-dysfunction/sparks/
+                      - generic [ref=e368]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e371] [cursor=pointer]:
+                    - /url: /safety-info/ro-sparks/
+          - tabpanel "2 of 6" [ref=e372]:
+            - generic [ref=e373]:
+              - link "Learn more" [ref=e374] [cursor=pointer]:
+                - /url: /erectile-dysfunction/daily-rise-gummies/
+                - img "a Ro Daily Rise Gummy held between two fingers" [ref=e377]
+              - generic [ref=e380]:
+                - generic [ref=e383]:
+                  - link "Learn more" [ref=e384] [cursor=pointer]:
+                    - /url: /erectile-dysfunction/daily-rise-gummies/
+                    - heading "Daily Rise Gummies" [level=3] [ref=e385]
+                  - paragraph [ref=e386]: Works continuously, no planning required
+                - generic [ref=e387]:
+                  - generic [ref=e388]:
+                    - link "Get Started" [ref=e389] [cursor=pointer]:
+                      - /url: https://start.ro.co/pyiozp?c=97f3b8214e9c1d0a5b8e7df63a2c4e19
+                      - generic [ref=e390]:
+                        - generic: Get Started
+                    - link "Learn more" [ref=e393] [cursor=pointer]:
+                      - /url: /erectile-dysfunction/daily-rise-gummies/
+                      - generic [ref=e394]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e397] [cursor=pointer]:
+                    - /url: /safety-info/daily-rise-gummies/
+          - tabpanel "3 of 6" [ref=e398]:
+            - generic [ref=e399]:
+              - link "Learn more" [ref=e400] [cursor=pointer]:
+                - /url: /erectile-dysfunction/sildenafil/
+              - generic [ref=e405]:
+                - generic [ref=e408]:
+                  - link "Learn more" [ref=e409] [cursor=pointer]:
+                    - /url: /erectile-dysfunction/sildenafil/
+                    - heading "Generic of Viagra®" [level=3] [ref=e410]
+                  - paragraph [ref=e411]: Up to 95% cheaper than branded
+                - generic [ref=e412]:
+                  - generic [ref=e413]:
+                    - link "Get Started" [ref=e414] [cursor=pointer]:
+                      - /url: https://start.ro.co/pyiozp?c=97f3b8214e9c1d0a5b8e7df63a2c4e19
+                      - generic [ref=e415]:
+                        - generic: Get Started
+                    - link "Learn more" [ref=e418] [cursor=pointer]:
+                      - /url: /erectile-dysfunction/sildenafil/
+                      - generic [ref=e419]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e422] [cursor=pointer]:
+                    - /url: /safety-info/viagra/
+          - tabpanel "4 of 6" [ref=e423]:
+            - generic [ref=e424]:
+              - link "Learn more" [ref=e425] [cursor=pointer]:
+                - /url: /erectile-dysfunction/viagra/
+              - generic [ref=e430]:
+                - generic [ref=e433]:
+                  - link "Learn more" [ref=e434] [cursor=pointer]:
+                    - /url: /erectile-dysfunction/viagra/
+                    - heading "Viagra®" [level=3] [ref=e435]
+                  - paragraph [ref=e436]: Ready in 60 minutes, lasts for 6 hours
+                - generic [ref=e437]:
+                  - generic [ref=e438]:
+                    - link "Get Started" [ref=e439] [cursor=pointer]:
+                      - /url: https://start.ro.co/pyiozp?c=97f3b8214e9c1d0a5b8e7df63a2c4e19
+                      - generic [ref=e440]:
+                        - generic: Get Started
+                    - link "Learn more" [ref=e443] [cursor=pointer]:
+                      - /url: /erectile-dysfunction/viagra/
+                      - generic [ref=e444]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e447] [cursor=pointer]:
+                    - /url: /safety-info/viagra/
+          - tabpanel "5 of 6" [ref=e448]:
+            - generic [ref=e449]:
+              - link "Learn more" [ref=e450] [cursor=pointer]:
+                - /url: /erectile-dysfunction/tadalafil/
+              - generic [ref=e455]:
+                - generic [ref=e458]:
+                  - link "Learn more" [ref=e459] [cursor=pointer]:
+                    - /url: /erectile-dysfunction/tadalafil/
+                    - heading "Generic of Cialis®" [level=3] [ref=e460]
+                  - paragraph [ref=e461]: Affordable alternative to branded
+                - generic [ref=e462]:
+                  - generic [ref=e463]:
+                    - link "Get Started" [ref=e464] [cursor=pointer]:
+                      - /url: https://start.ro.co/pyiozp?c=97f3b8214e9c1d0a5b8e7df63a2c4e19
+                      - generic [ref=e465]:
+                        - generic: Get Started
+                    - link "Learn more" [ref=e468] [cursor=pointer]:
+                      - /url: /erectile-dysfunction/tadalafil/
+                      - generic [ref=e469]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e472] [cursor=pointer]:
+                    - /url: /safety-info/cialis/
+          - tabpanel "6 of 6" [ref=e473]:
+            - generic [ref=e474]:
+              - link "Learn more" [ref=e475] [cursor=pointer]:
+                - /url: /erectile-dysfunction/cialis/
+              - generic [ref=e480]:
+                - generic [ref=e483]:
+                  - link "Learn more" [ref=e484] [cursor=pointer]:
+                    - /url: /erectile-dysfunction/cialis/
+                    - heading "Cialis®" [level=3] [ref=e485]
+                  - paragraph [ref=e486]: Daily and as-needed options available
+                - generic [ref=e487]:
+                  - generic [ref=e488]:
+                    - link "Get Started" [ref=e489] [cursor=pointer]:
+                      - /url: https://start.ro.co/pyiozp?c=97f3b8214e9c1d0a5b8e7df63a2c4e19
+                      - generic [ref=e490]:
+                        - generic: Get Started
+                    - link "Learn more" [ref=e493] [cursor=pointer]:
+                      - /url: /erectile-dysfunction/cialis/
+                      - generic [ref=e494]:
+                        - generic: Learn more
+                  - link "Important safety information" [ref=e497] [cursor=pointer]:
+                    - /url: /safety-info/cialis/
+      - paragraph [ref=e500]: Ro Sparks and Daily Rise Gummies are compounded medications. They are not FDA-approved and do not undergo FDA safety, effectiveness, or manufacturing review. *Get $20 off your next ED order on a recurring plan, if prescribed through 6/7. Minimum $35 order value.
+    - generic [ref=e503]:
+      - heading "Prescription treatments for your health goals" [level=2] [ref=e505]
+      - generic [ref=e506]:
+        - link "Lose weight" [ref=e507] [cursor=pointer]:
+          - /url: /weight-loss/
+          - heading "Lose weight" [level=2] [ref=e510]
+          - generic [ref=e513]:
+            - generic:
+              - generic:
+                - img
+        - link "Unlock better sex" [ref=e516] [cursor=pointer]:
+          - /url: /erectile-dysfunction/
+          - heading "Unlock better sex" [level=2] [ref=e519]
+          - generic [ref=e522]:
+            - generic:
+              - generic:
+                - img
+        - link "Regrow hair" [ref=e525] [cursor=pointer]:
+          - /url: /hair-loss/
+          - heading "Regrow hair" [level=2] [ref=e528]
+          - generic [ref=e531]:
+            - generic:
+              - generic:
+                - img
+        - link "Improve skin" [ref=e534] [cursor=pointer]:
+          - /url: /dermatology/
+          - heading "Improve skin" [level=2] [ref=e537]
+          - generic [ref=e540]:
+            - generic:
+              - generic:
+                - img
+        - link "Get fertility insights" [ref=e543] [cursor=pointer]:
+          - /url: /fertility/
+          - heading "Get fertility insights" [level=2] [ref=e546]
+          - generic [ref=e549]:
+            - generic:
+              - generic:
+                - img
+        - link "New from Ro" [ref=e552] [cursor=pointer]:
+          - /url: /erectile-dysfunction/daily-rise-gummies/
+          - heading "New from Ro" [level=2] [ref=e555]
+          - generic [ref=e558]:
+            - generic:
+              - generic:
+                - img
+    - generic [ref=e562]:
+      - heading "100% online, 100% convenient" [level=2] [ref=e568]:
+        - text: 100% online,
+        - text: 100% convenient
+      - region "Carousel" [ref=e572]:
+        - generic [ref=e573]:
+          - tabpanel "1 of 4" [ref=e574]:
+            - heading "Message your provider 24/7" [level=4] [ref=e579]
+          - tabpanel "2 of 4" [ref=e580]:
+            - heading "Manage goals in one place" [level=4] [ref=e585]
+          - tabpanel "3 of 4" [ref=e586]:
+            - heading "Clinically-proven, FDA-approved treatments" [level=4] [ref=e591]
+          - tabpanel "4 of 4" [ref=e592]:
+            - heading "Fast, discreet shipping" [level=4] [ref=e597]
+    - generic [ref=e600]:
+      - generic [ref=e602]:
+        - generic [ref=e603]:
+          - generic [ref=e604]:
+            - button "Click to open a full video testimonial" [ref=e605] [cursor=pointer]:
+              - generic:
+                - generic [ref=e607]:
+                  - paragraph [ref=e608]: Sonia
+                  - paragraph [ref=e609]: Ro member
+                  - img [ref=e610]
+                - img [ref=e614]
+            - button "Click to open a full video testimonial" [ref=e617] [cursor=pointer]:
+              - generic:
+                - generic [ref=e619]:
+                  - paragraph [ref=e620]: James
+                  - paragraph [ref=e621]: Ro member
+                  - img [ref=e622]
+                - img [ref=e626]
+            - button "Click to open a full video testimonial" [ref=e629] [cursor=pointer]:
+              - generic:
+                - generic [ref=e631]:
+                  - paragraph [ref=e632]: Chaleeta
+                  - paragraph [ref=e633]: Ro member
+                  - img [ref=e634]
+                - img [ref=e638]
+          - generic [ref=e641]:
+            - button "Click to open a full video testimonial" [ref=e642] [cursor=pointer]:
+              - generic:
+                - generic [ref=e644]:
+                  - paragraph [ref=e645]: Sonia
+                  - paragraph [ref=e646]: Ro member
+                  - img [ref=e647]
+                - img [ref=e651]
+            - button "Click to open a full video testimonial" [ref=e654] [cursor=pointer]:
+              - generic:
+                - generic [ref=e656]:
+                  - paragraph [ref=e657]: James
+                  - paragraph [ref=e658]: Ro member
+                  - img [ref=e659]
+                - img [ref=e663]
+            - button "Click to open a full video testimonial" [ref=e666] [cursor=pointer]:
+              - generic:
+                - generic [ref=e668]:
+                  - paragraph [ref=e669]: Chaleeta
+                  - paragraph [ref=e670]: Ro member
+                  - img [ref=e671]
+                - img [ref=e675]
+        - generic [ref=e678]:
+          - generic [ref=e679]:
+            - button "Click to open a full video testimonial" [ref=e680] [cursor=pointer]:
+              - generic:
+                - generic [ref=e682]:
+                  - paragraph [ref=e683]: Dave
+                  - paragraph [ref=e684]: Ro member
+                  - img [ref=e685]
+                - img [ref=e689]
+            - button "Click to open a full video testimonial" [ref=e692] [cursor=pointer]:
+              - generic:
+                - generic [ref=e694]:
+                  - paragraph [ref=e695]: Gordon
+                  - paragraph [ref=e696]: Ro member
+                  - img [ref=e697]
+                - img [ref=e701]
+            - button "Click to open a full video testimonial" [ref=e704] [cursor=pointer]:
+              - generic:
+                - generic [ref=e706]:
+                  - paragraph [ref=e707]: Michael
+                  - paragraph [ref=e708]: Ro member
+                  - img [ref=e709]
+                - img [ref=e713]
+          - generic [ref=e716]:
+            - button "Click to open a full video testimonial" [ref=e717] [cursor=pointer]:
+              - generic:
+                - generic [ref=e719]:
+                  - paragraph [ref=e720]: Dave
+                  - paragraph [ref=e721]: Ro member
+                  - img [ref=e722]
+                - img [ref=e726]
+            - button "Click to open a full video testimonial" [ref=e729] [cursor=pointer]:
+              - generic:
+                - generic [ref=e731]:
+                  - paragraph [ref=e732]: Gordon
+                  - paragraph [ref=e733]: Ro member
+                  - img [ref=e734]
+                - img [ref=e738]
+            - button "Click to open a full video testimonial" [ref=e741] [cursor=pointer]:
+              - generic:
+                - generic [ref=e743]:
+                  - paragraph [ref=e744]: Michael
+                  - paragraph [ref=e745]: Ro member
+                  - img [ref=e746]
+                - img [ref=e750]
+        - generic [ref=e753]:
+          - generic [ref=e754]:
+            - button "Click to open a full video testimonial" [ref=e755] [cursor=pointer]:
+              - generic:
+                - generic [ref=e757]:
+                  - paragraph [ref=e758]: Alan
+                  - paragraph [ref=e759]: Ro member
+                  - img [ref=e760]
+                - img [ref=e764]
+            - button "Click to open a full video testimonial" [ref=e767] [cursor=pointer]:
+              - generic:
+                - generic [ref=e769]:
+                  - paragraph [ref=e770]: Valjean
+                  - paragraph [ref=e771]: Ro member
+                  - img [ref=e772]
+                - img [ref=e776]
+            - button "Click to open a full video testimonial" [ref=e779] [cursor=pointer]:
+              - generic:
+                - generic [ref=e781]:
+                  - paragraph [ref=e782]: Rob
+                  - paragraph [ref=e783]: Ro member
+                  - img [ref=e784]
+                - img [ref=e788]
+          - generic [ref=e791]:
+            - button "Click to open a full video testimonial" [ref=e792] [cursor=pointer]:
+              - generic:
+                - generic [ref=e794]:
+                  - paragraph [ref=e795]: Alan
+                  - paragraph [ref=e796]: Ro member
+                  - img [ref=e797]
+                - img [ref=e801]
+            - button "Click to open a full video testimonial" [ref=e804] [cursor=pointer]:
+              - generic:
+                - generic [ref=e806]:
+                  - paragraph [ref=e807]: Valjean
+                  - paragraph [ref=e808]: Ro member
+                  - img [ref=e809]
+                - img [ref=e813]
+            - button "Click to open a full video testimonial" [ref=e816] [cursor=pointer]:
+              - generic:
+                - generic [ref=e818]:
+                  - paragraph [ref=e819]: Rob
+                  - paragraph [ref=e820]: Ro member
+                  - img [ref=e821]
+                - img [ref=e825]
+      - generic [ref=e829]:
+        - generic [ref=e830]:
+          - paragraph [ref=e834]: 95% love their experience
+          - heading "3,000,000+" [level=2] [ref=e835]
+          - paragraph [ref=e836]: members and counting
+        - generic [ref=e837]:
+          - paragraph [ref=e838]: "Hear from Ro Partners:"
+          - generic [ref=e839]:
+            - blockquote [ref=e840]:
+              - paragraph [ref=e841]: “ Works wonders and their service is amazing”
+              - generic [ref=e842]:
+                - paragraph [ref=e843]: Bennie
+                - paragraph [ref=e844]: Ro member
+            - blockquote [ref=e847]:
+              - paragraph [ref=e848]: “ Since losing 51 pounds through Ro, my day-to-day life has changed dramatically.”
+              - generic [ref=e849]:
+                - paragraph [ref=e850]: Kerry
+                - paragraph [ref=e851]: Ro member
+            - blockquote [ref=e854]:
+              - paragraph [ref=e855]: “ Someone is always there to walk you through the program—super easy and fast!”
+              - generic [ref=e856]:
+                - paragraph [ref=e857]: Roman
+                - paragraph [ref=e858]: Ro member
+            - blockquote [ref=e861]:
+              - paragraph [ref=e862]: “ My experience with Ro has been life changing. They were very easy to work with.”
+              - generic [ref=e863]:
+                - paragraph [ref=e864]: Selina
+                - paragraph [ref=e865]: Ro member
+            - blockquote [ref=e868]:
+              - paragraph [ref=e869]: “ I can do the things that I want without feeling like I’m getting in my own way.”
+              - generic [ref=e870]:
+                - paragraph [ref=e871]: Olivia
+                - paragraph [ref=e872]: Ro member
+            - blockquote [ref=e875]:
+              - paragraph [ref=e876]: “ The convenience and online support made this journey sustainable for me.”
+              - generic [ref=e877]:
+                - paragraph [ref=e878]: Evan
+                - paragraph [ref=e879]: Ro member
+            - blockquote [ref=e882]:
+              - paragraph [ref=e883]: “ I've done all the fad diets out there and Ro supports me more than any of those programs did.”
+              - generic [ref=e884]:
+                - paragraph [ref=e885]: Colleen
+                - paragraph [ref=e886]: Ro member
+            - blockquote [ref=e889]:
+              - paragraph [ref=e890]: “ For years, I didn't wear jeans because they didn't fit. Now I wear jeans every single day!”
+              - generic [ref=e891]:
+                - paragraph [ref=e892]: Danielle
+                - paragraph [ref=e893]: Ro member
+    - generic [ref=e898]:
+      - generic [ref=e900]:
+        - heading "Backed by the country’s leading health experts" [level=2] [ref=e904]
+        - paragraph [ref=e905]: Ro's world-leading experts and advisors enable us to deliver high-quality healthcare at scale. Their combined clinical expertise guides innovative treatment plans to make it easier for millions of patients to achieve their health goals.
+        - list [ref=e906]:
+          - listitem [ref=e907]:
+            - paragraph [ref=e912]:
+              - strong [ref=e913]: Board-certified
+              - text: 20+ years experience in a medical specialty
+          - listitem [ref=e914]:
+            - paragraph [ref=e919]:
+              - strong [ref=e920]: Industry innovations
+              - text: 100s of published studies in top medical journals
+          - listitem [ref=e921]:
+            - paragraph [ref=e926]:
+              - strong [ref=e927]: Policy leaders
+              - text: Former Surgeon General and Head of the DEA
+        - link "Meet our advisors" [ref=e929] [cursor=pointer]:
+          - /url: /advisors/
+          - generic [ref=e930]:
+            - generic:
+              - generic:
+                - text: Meet our advisors
+                - img
+      - region "Carousel" [ref=e935]:
+        - generic [ref=e936]:
+          - tabpanel "1 of 3" [ref=e937]:
+            - generic [ref=e938]:
+              - img "Dr. Melynda Barnes, MD" [ref=e941]
+              - generic [ref=e943]:
+                - generic [ref=e944]:
+                  - generic [ref=e945]:
+                    - heading "Dr. Melynda Barnes, MD" [level=2] [ref=e946]
+                    - paragraph [ref=e949]: Chief Medical Officer
+                  - paragraph [ref=e950]: Triple board-certified Obesity Medicine, Facial Plastic and Reconstructive Surgeon, and Otolaryngologist
+                - list [ref=e952]:
+                  - listitem [ref=e953]:
+                    - paragraph [ref=e955]: Stanford University
+                  - listitem [ref=e956]:
+                    - paragraph [ref=e958]: Yale Medical Group's Board of Directors
+          - tabpanel "2 of 3" [ref=e959]:
+            - generic [ref=e960]:
+              - img "Dr. Raoul Manalac, MD" [ref=e963]
+              - generic [ref=e965]:
+                - generic [ref=e966]:
+                  - generic [ref=e967]:
+                    - heading "Dr. Raoul Manalac, MD" [level=2] [ref=e968]
+                    - paragraph [ref=e971]: Senior Director, Clinical Strategy
+                  - paragraph [ref=e972]:
+                    - text: Board-certified Internal Medicine
+                    - text: Physician
+                - list [ref=e974]:
+                  - listitem [ref=e975]:
+                    - paragraph [ref=e977]: Johns Hopkins University
+                  - listitem [ref=e978]:
+                    - paragraph [ref=e980]: American Board of Obesity Medicine
+          - tabpanel "3 of 3" [ref=e981]:
+            - generic [ref=e982]:
+              - img "Dr. Nitin Vaswani, MD, MPH, MBA" [ref=e985]
+              - generic [ref=e987]:
+                - generic [ref=e988]:
+                  - generic [ref=e989]:
+                    - heading "Dr. Nitin Vaswani, MD MPH MBA" [level=2] [ref=e990]
+                    - paragraph [ref=e993]: Director, Clinical Strategy
+                  - paragraph [ref=e994]: General Surgeon and Clinical Pathologist trainee
+                - list [ref=e996]:
+                  - listitem [ref=e997]:
+                    - paragraph [ref=e999]: Johns Hopkins University
+                  - listitem [ref=e1000]:
+                    - paragraph [ref=e1002]: University of Pennsylvania
+    - generic:
+      - generic:
+        - generic:
+          - img "logos for Alliance for Safe Online Pharmacies (ASOP Global), American Telemedicine Association, LegitScript, National Association of Boards of Pharmacy (NABP), and Quest Diagnostics"
+    - generic [ref=e1004]:
+      - heading "Health guide" [level=2] [ref=e1010]
+      - region "Carousel" [ref=e1014]:
+        - generic [ref=e1015]:
+          - tabpanel "1 of 10" [ref=e1016]:
+            - link "Oral Wegovy (aka the Wegovy pill), explained 6 min read" [ref=e1017] [cursor=pointer]:
+              - /url: /weight-loss/oral-wegovy/
+              - generic [ref=e1022]:
+                - heading "Oral Wegovy (aka the Wegovy pill), explained" [level=3] [ref=e1024]
+                - generic [ref=e1025]:
+                  - paragraph [ref=e1027]: 6 min read
+                  - img [ref=e1028]
+          - tabpanel "2 of 10" [ref=e1031]:
+            - 'link "Cialis® vs. Viagra®: similarities and differences - Desktop Image Cialis® vs. Viagra:® similarities and differences 8 min read" [ref=e1032] [cursor=pointer]':
+              - /url: /erectile-dysfunction/cialis-vs-viagra/
+              - 'img "Cialis® vs. Viagra®: similarities and differences - Desktop Image" [ref=e1035]'
+              - generic [ref=e1038]:
+                - heading "Cialis® vs. Viagra:® similarities and differences" [level=3] [ref=e1040]
+                - generic [ref=e1041]:
+                  - paragraph [ref=e1043]: 8 min read
+                  - img [ref=e1044]
+          - tabpanel "3 of 10" [ref=e1047]:
+            - 'link "Wegovy vs. Ozempic: what is the difference? - Mobile Image What is the difference between Wegovy® and Ozempic®? 7 min read" [ref=e1048] [cursor=pointer]':
+              - /url: /weight-loss/wegovy-vs-ozempic/
+              - 'img "Wegovy vs. Ozempic: what is the difference? - Mobile Image" [ref=e1051]'
+              - generic [ref=e1054]:
+                - heading "What is the difference between Wegovy® and Ozempic®?" [level=3] [ref=e1056]
+                - generic [ref=e1057]:
+                  - paragraph [ref=e1059]: 7 min read
+                  - img [ref=e1060]
+          - tabpanel "4 of 10" [ref=e1063]:
+            - 'link "Minoxidil foam vs. minoxidil liquid: pros and cons 4 min read" [ref=e1064] [cursor=pointer]':
+              - /url: /hair-loss/minoxidil-foam-vs-liquid/
+              - generic [ref=e1069]:
+                - 'heading "Minoxidil foam vs. minoxidil liquid: pros and cons" [level=3] [ref=e1071]'
+                - generic [ref=e1072]:
+                  - paragraph [ref=e1074]: 4 min read
+                  - img [ref=e1075]
+          - tabpanel "5 of 10" [ref=e1078]:
+            - link "The scientific way to get stronger erections 8 min read" [ref=e1079] [cursor=pointer]:
+              - /url: /erectile-dysfunction/stronger-erections/
+              - generic [ref=e1084]:
+                - heading "The scientific way to get stronger erections" [level=3] [ref=e1086]
+                - generic [ref=e1087]:
+                  - paragraph [ref=e1089]: 8 min read
+                  - img [ref=e1090]
+          - tabpanel "6 of 10" [ref=e1093]:
+            - link "Guide to oral GLP-1s for weight loss 7 min read" [ref=e1094] [cursor=pointer]:
+              - /url: /weight-loss/oral-glp-1/
+              - generic [ref=e1099]:
+                - heading "Guide to oral GLP-1s for weight loss" [level=3] [ref=e1101]
+                - generic [ref=e1102]:
+                  - paragraph [ref=e1104]: 7 min read
+                  - img [ref=e1105]
+          - tabpanel "7 of 10" [ref=e1108]:
+            - link "Viagra didn’t work? Here are some tips Viagra® didn’t work? Here are some tips 5 min read" [ref=e1109] [cursor=pointer]:
+              - /url: /erectile-dysfunction/what-if-viagra-doesnt-work/
+              - img "Viagra didn’t work? Here are some tips" [ref=e1112]
+              - generic [ref=e1115]:
+                - heading "Viagra® didn’t work? Here are some tips" [level=3] [ref=e1117]
+                - generic [ref=e1118]:
+                  - paragraph [ref=e1120]: 5 min read
+                  - img [ref=e1121]
+          - tabpanel "8 of 10" [ref=e1124]:
+            - link "Preventing and treating hair loss on Accutane (isotretinoin) - Desktop Image How much hair loss is normal? 6 min read" [ref=e1125] [cursor=pointer]:
+              - /url: /hair-loss/how-much-hair-loss-is-normal/
+              - img "Preventing and treating hair loss on Accutane (isotretinoin) - Desktop Image" [ref=e1128]
+              - generic [ref=e1131]:
+                - heading "How much hair loss is normal?" [level=3] [ref=e1133]
+                - generic [ref=e1134]:
+                  - paragraph [ref=e1136]: 6 min read
+                  - img [ref=e1137]
+          - tabpanel "9 of 10" [ref=e1140]:
+            - 'link "Zepbound® vs. Wegovy®: what is the difference? 11 min read" [ref=e1141] [cursor=pointer]':
+              - /url: /weight-loss/zepbound-vs-wegovy/
+              - generic [ref=e1146]:
+                - 'heading "Zepbound® vs. Wegovy®: what is the difference?" [level=3] [ref=e1148]'
+                - generic [ref=e1149]:
+                  - paragraph [ref=e1151]: 11 min read
+                  - img [ref=e1152]
+          - tabpanel "10 of 10" [ref=e1155]:
+            - 'link "Sildenafil vs. Viagra®: what’s the difference? - Desktop Image Sildenafil vs Viagra®: what’s the difference? 4 min read" [ref=e1156] [cursor=pointer]':
+              - /url: /erectile-dysfunction/viagra-vs-generic-viagra-vs-sildenafil/
+              - 'img "Sildenafil vs. Viagra®: what’s the difference? - Desktop Image" [ref=e1159]'
+              - generic [ref=e1162]:
+                - 'heading "Sildenafil vs Viagra®: what’s the difference?" [level=3] [ref=e1164]'
+                - generic [ref=e1165]:
+                  - paragraph [ref=e1167]: 4 min read
+                  - img [ref=e1168]
+    - list [ref=e1173]:
+      - listitem [ref=e1174]:
+        - link "Weight loss" [ref=e1175] [cursor=pointer]:
+          - /url: /weight-loss/
+      - listitem [ref=e1176]:
+        - link "Sexual health" [ref=e1177] [cursor=pointer]:
+          - /url: /erectile-dysfunction/
+      - listitem [ref=e1178]:
+        - link "Hair loss" [ref=e1179] [cursor=pointer]:
+          - /url: /hair-loss/
+      - listitem [ref=e1180]:
+        - link "Fertility" [ref=e1181] [cursor=pointer]:
+          - /url: /fertility/
+      - listitem [ref=e1182]:
+        - link "Skin" [ref=e1183] [cursor=pointer]:
+          - /url: /dermatology/
+    - navigation "More About Ro" [ref=e1188]:
+      - heading "More About Ro" [level=2] [ref=e1190]
+      - generic [ref=e1192]:
+        - generic [ref=e1193]:
+          - heading "Popular" [level=3] [ref=e1194]
+          - list [ref=e1195]:
+            - listitem [ref=e1196]:
+              - link "Weight Loss" [ref=e1197] [cursor=pointer]:
+                - /url: /weight-loss/
+            - listitem [ref=e1198]:
+              - link "Erectile Dysfunction" [ref=e1199] [cursor=pointer]:
+                - /url: /erectile-dysfunction/
+            - listitem [ref=e1200]:
+              - link "Ozempic" [ref=e1201] [cursor=pointer]:
+                - /url: /weight-loss/ozempic/
+            - listitem [ref=e1202]:
+              - link "Wegovy" [ref=e1203] [cursor=pointer]:
+                - /url: /weight-loss/wegovy/
+            - listitem [ref=e1204]:
+              - link "Zepbound" [ref=e1205] [cursor=pointer]:
+                - /url: /weight-loss/zepbound/
+            - listitem [ref=e1206]:
+              - link "Cialis" [ref=e1207] [cursor=pointer]:
+                - /url: /erectile-dysfunction/cialis/
+            - listitem [ref=e1208]:
+              - link "Hair Loss" [ref=e1209] [cursor=pointer]:
+                - /url: /hair-loss/
+        - generic [ref=e1210]:
+          - heading "About Ro" [level=3] [ref=e1211]
+          - list [ref=e1212]:
+            - listitem [ref=e1213]:
+              - link "Founders letter" [ref=e1214] [cursor=pointer]:
+                - /url: /founder-letter/
+            - listitem [ref=e1215]:
+              - link "Ro Operating System" [ref=e1216] [cursor=pointer]:
+                - /url: /os/
+            - listitem [ref=e1217]:
+              - link "Advisors" [ref=e1218] [cursor=pointer]:
+                - /url: /advisors/
+            - listitem [ref=e1219]:
+              - link "Careers" [ref=e1220] [cursor=pointer]:
+                - /url: /careers/
+            - listitem [ref=e1221]:
+              - link "Tech @ Ro" [ref=e1222] [cursor=pointer]:
+                - /url: /tech/
+            - listitem [ref=e1223]:
+              - link "Press" [ref=e1224] [cursor=pointer]:
+                - /url: /press/
+            - listitem [ref=e1225]:
+              - link "Health Guide" [ref=e1226] [cursor=pointer]:
+                - /url: /health-guide/
+            - listitem [ref=e1227]:
+              - link "Blog" [ref=e1228] [cursor=pointer]:
+                - /url: /blog/articles/
+        - generic [ref=e1229]:
+          - heading "Support" [level=3] [ref=e1230]
+          - list [ref=e1231]:
+            - listitem [ref=e1232]:
+              - link "Contact us" [ref=e1233] [cursor=pointer]:
+                - /url: /contact-us/
+            - listitem [ref=e1234]:
+              - link "FAQ" [ref=e1235] [cursor=pointer]:
+                - /url: /faq/
+            - listitem [ref=e1236]:
+              - link "Returns & Refunds" [ref=e1237] [cursor=pointer]:
+                - /url: /returns-and-refunds/
+            - listitem [ref=e1238]:
+              - link "Pricing" [ref=e1239] [cursor=pointer]:
+                - /url: /pricing/
+          - heading "Free tools" [level=3] [ref=e1240]
+          - list [ref=e1241]:
+            - listitem [ref=e1242]:
+              - link "GLP-1 Insurance Checker" [ref=e1243] [cursor=pointer]:
+                - /url: /weight-loss/glp1-insurance-checker/
+            - listitem [ref=e1244]:
+              - link "BMI Calculator" [ref=e1245] [cursor=pointer]:
+                - /url: /weight-loss/bmi-calculator/
+            - listitem [ref=e1246]:
+              - link "BMR Calculator" [ref=e1247] [cursor=pointer]:
+                - /url: /weight-loss/bmr-calculator/
+            - listitem [ref=e1248]:
+              - link "TDEE Calculator" [ref=e1249] [cursor=pointer]:
+                - /url: /weight-loss/tdee-calculator/
+            - listitem [ref=e1250]:
+              - link "Calorie Deficit Calculator" [ref=e1251] [cursor=pointer]:
+                - /url: /weight-loss/calorie-deficit-calculator/
+            - listitem [ref=e1252]:
+              - link "Protein Calculator" [ref=e1253] [cursor=pointer]:
+                - /url: /weight-loss/protein-calculator/
+            - listitem [ref=e1254]:
+              - link "GLP-1 Supply Tracker" [ref=e1255] [cursor=pointer]:
+                - /url: /weight-loss/supply-tracker/
+        - generic [ref=e1256]:
+          - heading "Legal" [level=3] [ref=e1257]
+          - list [ref=e1258]:
+            - listitem [ref=e1259]:
+              - link "Terms" [ref=e1260] [cursor=pointer]:
+                - /url: /terms-of-use/
+            - listitem [ref=e1261]:
+              - link "Privacy" [ref=e1262] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=e1263]:
+              - link "Consumer Health Data Privacy" [ref=e1264] [cursor=pointer]:
+                - /url: /consumer-health-data-privacy-policy/
+            - listitem [ref=e1265]:
+              - button "Your Privacy Choices" [ref=e1267] [cursor=pointer]:
+                - generic [ref=e1270]: Your Privacy Choices
+        - generic [ref=e1274]:
+          - generic [ref=e1275]:
+            - img "Ro" [ref=e1276]
+            - img "Badge representing the Legit Script certification"
+          - paragraph [ref=e1279]: 2026 © All rights reserved, Ro

@@ -2,8 +2,7 @@ import Link from "next/link";
 import { TECH_COMPANY } from "../legal/_lib/entities";
 
 const navItems: [string, string][] = [
-  ["How It Works", "/#how"],
-  ["Pricing", "/#pricing"],
+  ["Weight Loss", "/#weight-loss"],
   ["Safety", "/safety"],
   ["FAQ", "/faq"],
 ];
@@ -30,16 +29,10 @@ export function SiteHeader() {
         </nav>
         <div className="flex items-center gap-3">
           <a
-            href="/#start"
-            className="hidden text-sm text-muted hover:text-foreground sm:inline"
-          >
-            Sign In
-          </a>
-          <a
-            href="/#start"
+            href="/#waitlist"
             className="inline-flex h-10 items-center justify-center rounded-full bg-accent px-5 text-sm font-medium text-background transition-colors hover:bg-accent-hover"
           >
-            Start Visit
+            Join Waitlist
           </a>
         </div>
       </div>

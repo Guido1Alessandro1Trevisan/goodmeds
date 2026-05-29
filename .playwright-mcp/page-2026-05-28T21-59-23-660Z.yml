@@ -1,0 +1,463 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e8]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: ./
+      - generic [ref=e13] [cursor=pointer]:
+        - img [ref=e16]
+        - img [ref=e19]
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - paragraph [ref=e25]: Join 500,000+ MEDVi patients
+            - generic [ref=e27]:
+              - paragraph [ref=e28]: Healthcare,
+              - paragraph [ref=e29]: redefined for real life.
+            - paragraph [ref=e31]: We provide medical care online—simple, direct, and led by licensed providers. No waiting rooms. No unnecessary steps. Just care that works.
+          - generic [ref=e34]:
+            - link "Weight Loss" [ref=e35] [cursor=pointer]:
+              - /url: ./#weight-loss
+              - generic [ref=e42]:
+                - paragraph [ref=e44]: Weight Loss
+                - img [ref=e47]
+            - link "Peptides & Longevity" [ref=e49] [cursor=pointer]:
+              - /url: ./#peptides
+              - generic [ref=e56]:
+                - paragraph [ref=e58]: Peptides & Longevity
+                - img [ref=e61]
+            - link "Men's Health" [ref=e63] [cursor=pointer]:
+              - /url: ./#mens-health
+              - generic [ref=e70]:
+                - paragraph [ref=e72]: Men's Health
+                - img [ref=e75]
+            - link "Women's Health" [ref=e77] [cursor=pointer]:
+              - /url: ./#womens-health
+              - generic [ref=e84]:
+                - paragraph [ref=e86]: Women's Health
+                - img [ref=e89]
+        - paragraph [ref=e96]: MEDVi
+      - group [ref=e99]:
+        - listitem [ref=e100]:
+          - paragraph [ref=e104]: Licensed Medical Providers
+        - listitem [ref=e105]:
+          - paragraph [ref=e109]: 100% Online
+        - listitem [ref=e110]:
+          - paragraph [ref=e114]: Clear pricing
+        - listitem [ref=e115]:
+          - paragraph [ref=e119]: Shipped to your door
+        - listitem [ref=e120]:
+          - paragraph [ref=e124]: Licensed Medical Providers
+        - listitem [ref=e125]:
+          - paragraph [ref=e129]: 100% Online
+        - listitem [ref=e130]:
+          - paragraph [ref=e134]: Clear pricing
+        - listitem [ref=e135]:
+          - paragraph [ref=e139]: Shipped to your door
+      - generic [ref=e140]:
+        - generic [ref=e143]:
+          - generic [ref=e151]:
+            - heading "Everything you need—included:" [level=4] [ref=e153]
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - img [ref=e158]
+                - paragraph [ref=e161]: Prescription to fast, effective GLP-1
+              - generic [ref=e162]:
+                - img [ref=e165]
+                - paragraph [ref=e168]: 1:1 physician guidance
+              - generic [ref=e169]:
+                - img [ref=e172]
+                - paragraph [ref=e175]: Free dietician visits & care coaching included*
+              - generic [ref=e176]:
+                - img [ref=e179]
+                - paragraph [ref=e182]: 24/7 support
+              - generic [ref=e183]:
+                - img [ref=e186]
+                - paragraph [ref=e189]: Fast & discreet shipping
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - heading "Doctor-guided GLP-1 care" [level=6] [ref=e193]
+              - heading "Weight loss made easy with personalized care" [level=2] [ref=e195]
+            - generic [ref=e205]:
+              - heading "A smarter approach to weight loss, built around you" [level=3] [ref=e207]
+              - paragraph [ref=e209]: Find the right GLP-1 medication with the confidence that comes from knowing it is doctor-approved and budget-friendly.
+              - link "Get Started" [ref=e211] [cursor=pointer]:
+                - /url: https://glp1.medvi.org
+                - paragraph [ref=e214]: Get Started
+        - generic [ref=e215]:
+          - generic [ref=e216]:
+            - generic [ref=e223]:
+              - paragraph [ref=e225]: Everything, all in one place
+              - paragraph [ref=e227]: Track your progress, check in with your provider, and manage your care in your all-in-one patient portal
+            - generic [ref=e232]:
+              - paragraph [ref=e234]: Unlimited 24/7 support
+              - paragraph [ref=e236]: Medical support continues throughout your care, whenever you need it
+          - paragraph [ref=e238]:
+            - text: Prescriptions are issued only after an online consultation with an independent licensed provider. Compound medications are dispensed by state-licensed pharmacies but are not FDA approved.
+            - text: "*Free to end users subject to insurance and copays eligibility to be determined at time of visit."
+      - generic [ref=e242]:
+        - generic [ref=e250]:
+          - paragraph [ref=e252]: Benefits that support every stage
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - img [ref=e257]
+              - paragraph [ref=e260]: Hormone balance
+            - generic [ref=e261]:
+              - img [ref=e264]
+              - paragraph [ref=e267]: Healthy weight management
+            - generic [ref=e268]:
+              - img [ref=e271]
+              - paragraph [ref=e274]: Hair strength & growth support
+            - generic [ref=e275]:
+              - img [ref=e278]
+              - paragraph [ref=e281]: Skin health & radiance
+            - generic [ref=e282]:
+              - img [ref=e285]
+              - paragraph [ref=e288]: Fast & discreet shipping
+        - generic [ref=e289]:
+          - generic [ref=e290]:
+            - heading "Care Designed for Women's Health" [level=6] [ref=e292]
+            - heading "Whole-body care for her balance, vitality, and confidence" [level=2] [ref=e294]
+          - generic [ref=e304]:
+            - heading "Support that evolves with your body" [level=3] [ref=e306]
+            - paragraph [ref=e308]: Doctor-guided care for weight, hormones, hair, and skin, with personalized treatment plans designed to support your health through every stage of life.
+            - paragraph [ref=e313] [cursor=pointer]: Coming Soon
+      - generic [ref=e317]:
+        - generic [ref=e325]:
+          - paragraph [ref=e327]: Meal prep made simple
+          - generic [ref=e328]:
+            - generic [ref=e329]:
+              - img [ref=e332]
+              - paragraph [ref=e335]: Chef-made, portion-controlled
+            - generic [ref=e336]:
+              - img [ref=e339]
+              - paragraph [ref=e342]: Weekly rotating meals
+            - generic [ref=e343]:
+              - img [ref=e346]
+              - paragraph [ref=e349]: Nutritionally balanced
+            - generic [ref=e350]:
+              - img [ref=e353]
+              - paragraph [ref=e356]: Macro-friendly options
+            - generic [ref=e357]:
+              - img [ref=e360]
+              - paragraph [ref=e363]: Completely hassle-free
+        - generic [ref=e364]:
+          - generic [ref=e365]:
+            - heading "METABOLIC NUTRITION" [level=6] [ref=e367]
+            - heading "Fuel your transformation, protect your progress" [level=2] [ref=e369]
+          - generic [ref=e379]:
+            - heading "Skip the hassle of meal planning and prepping" [level=3] [ref=e381]
+            - paragraph [ref=e383]: MEDVi Meals is the perfect partner for your GLP-1 journey—delivering chef-prepared, medically aligned nutrition designed to help you lose fat while preserving muscle.
+            - link "Get Started" [ref=e385] [cursor=pointer]:
+              - /url: https://meals.medvi.org
+              - paragraph [ref=e388]: Get Started
+      - generic [ref=e389]:
+        - generic [ref=e392]:
+          - generic [ref=e400]:
+            - paragraph [ref=e402]: What better support looks like
+            - generic [ref=e403]:
+              - generic [ref=e404]:
+                - img [ref=e407]
+                - paragraph [ref=e410]: Clean, transparent ingredients
+              - generic [ref=e411]:
+                - img [ref=e414]
+                - paragraph [ref=e417]: Built to support daily health
+              - generic [ref=e418]:
+                - img [ref=e421]
+                - paragraph [ref=e424]: Evidence-based dosing
+              - generic [ref=e425]:
+                - img [ref=e428]
+                - paragraph [ref=e431]: Doctor-formulated blends
+              - generic [ref=e432]:
+                - img [ref=e435]
+                - paragraph [ref=e438]: High-quality sourcing
+          - generic [ref=e439]:
+            - generic [ref=e440]:
+              - heading "Purpose-driven supplementation" [level=6] [ref=e442]
+              - heading "Supplements with the power to boost real results" [level=2] [ref=e444]
+            - generic [ref=e454]:
+              - heading "Support that helps you feel better over time" [level=3] [ref=e456]
+              - paragraph [ref=e458]: Doctor-designed formulas made with quality ingredients and evidence-based dosing to support your body day after day.
+              - paragraph [ref=e463] [cursor=pointer]: Coming Soon
+        - heading "Doctor-formulated blends designed to support how your body works best." [level=3] [ref=e474]
+      - generic [ref=e478]:
+        - generic [ref=e486]:
+          - paragraph [ref=e488]: Benefits that make a difference
+          - generic [ref=e489]:
+            - generic [ref=e490]:
+              - img [ref=e493]
+              - paragraph [ref=e496]: Physical performance
+            - generic [ref=e497]:
+              - img [ref=e500]
+              - paragraph [ref=e503]: Hormone balance
+            - generic [ref=e504]:
+              - img [ref=e507]
+              - paragraph [ref=e510]: Energy levels
+            - generic [ref=e511]:
+              - img [ref=e514]
+              - paragraph [ref=e517]: Mental focus
+            - generic [ref=e518]:
+              - img [ref=e521]
+              - paragraph [ref=e524]: Fast & discreet shipping
+        - generic [ref=e525]:
+          - generic [ref=e526]:
+            - heading "Care for energy, hormones, and performance" [level=6] [ref=e528]
+            - heading "Men’s healthcare, built for men who expect more" [level=2] [ref=e530]
+          - generic [ref=e540]:
+            - heading "Care designed to help you feel stronger, sharper, and more in control" [level=3] [ref=e542]
+            - paragraph [ref=e544]: Doctor-guided care for hormones, energy, and performance, with treatment plans tailored to your goals and adjusted as your body responds.
+            - link "Get Started" [ref=e546] [cursor=pointer]:
+              - /url: http://quad.medvi.org/
+              - paragraph [ref=e549]: Get Started
+      - generic [ref=e553]:
+        - paragraph [ref=e563]: Unlock what your body can do
+        - generic [ref=e564]:
+          - generic [ref=e565]:
+            - heading "ADVANCED Peptide SUPPORT" [level=6] [ref=e567]
+            - heading "Targeted support for recovery, performance, and longevity" [level=2] [ref=e569]
+          - generic [ref=e579]:
+            - heading "Support that works below the surface" [level=3] [ref=e581]
+            - paragraph [ref=e583]: Peptide therapy is designed to support how your body recovers, performs, and repairs over time—with targeted options for goals like recovery, strength, sleep, and overall optimization.
+            - paragraph [ref=e588] [cursor=pointer]: Coming Soon
+      - generic [ref=e592]:
+        - generic [ref=e600]:
+          - paragraph [ref=e602]: Personalized Support for Lasting Hair Results
+          - generic [ref=e603]:
+            - generic [ref=e604]:
+              - img [ref=e607]
+              - paragraph [ref=e610]: Clinically backed regrowth ingredients
+            - generic [ref=e611]:
+              - img [ref=e614]
+              - paragraph [ref=e617]: Targeted scalp and follicle support
+            - generic [ref=e618]:
+              - img [ref=e621]
+              - paragraph [ref=e624]: Long-term hair density approach
+            - generic [ref=e625]:
+              - img [ref=e628]
+              - paragraph [ref=e631]: Fast shipping
+        - generic [ref=e632]:
+          - generic [ref=e633]:
+            - heading "Targeted hair restoration" [level=6] [ref=e635]
+            - heading "Proven care for thinning hair and regrowth" [level=2] [ref=e637]
+          - generic [ref=e647]:
+            - heading "Advanced hair regrowth care to help you look and feel your best" [level=3] [ref=e649]
+            - paragraph [ref=e651]: Revitalize your roots and restore fuller-looking hair with our powerful hair regrowth serum, formulated to nourish the scalp and support visibly thicker, healthier strands.
+            - paragraph [ref=e656] [cursor=pointer]: Coming Soon
+      - generic [ref=e660]:
+        - generic [ref=e668]:
+          - paragraph [ref=e670]: Why our skincare works
+          - generic [ref=e671]:
+            - generic [ref=e672]:
+              - img [ref=e675]
+              - paragraph [ref=e678]: Clinician-guided tailored care
+            - generic [ref=e679]:
+              - img [ref=e682]
+              - paragraph [ref=e685]: Prescription-strength options
+            - generic [ref=e686]:
+              - img [ref=e689]
+              - paragraph [ref=e692]: Simple daily routines
+            - generic [ref=e693]:
+              - img [ref=e696]
+              - paragraph [ref=e699]: Visible skin results
+            - generic [ref=e700]:
+              - img [ref=e703]
+              - paragraph [ref=e706]: Personalized treatment plans
+        - generic [ref=e707]:
+          - generic [ref=e708]:
+            - heading "Personalized care for healthier, clearer skin." [level=6] [ref=e710]
+            - heading "Skincare that goes deeper than the surface" [level=2] [ref=e712]
+          - generic [ref=e722]:
+            - heading "Skincare designed to treat the root cause—not just cover it up." [level=3] [ref=e724]
+            - paragraph [ref=e726]: From acne and aging to sensitivity and texture, every plan is built for real, visible improvement. Proven ingredients. Targeted treatments. Care that evolves with your skin.
+            - paragraph [ref=e731] [cursor=pointer]: Coming Soon
+      - generic [ref=e733]:
+        - generic [ref=e734]:
+          - heading "Better is possible—and we built for it." [level=6] [ref=e736]
+          - heading "Modern healthcare, built around you" [level=2] [ref=e738]
+        - generic [ref=e739]:
+          - img [ref=e741]:
+            - generic [ref=e743]: WITH YOU FROM START TO SUCCESS
+          - generic [ref=e749]:
+            - heading "Care coaching and nutrition support" [level=3] [ref=e752]
+            - paragraph [ref=e754]: Our care coaching team, led by certified medical assistants and registered dietitians, helps answer questions about your medication, program, and day-to-day lifestyle changes—so you have the guidance you need to stay on track and see results.
+        - heading "We're creating a better healthcare experience, and the details matter We're here for those details" [level=3] [ref=e759]:
+          - text: We're creating a better healthcare experience, and the details matter
+          - text: We're here for those details
+      - generic [ref=e760]:
+        - generic [ref=e762]:
+          - heading "Those who chose MEDVi" [level=6] [ref=e764]
+          - heading "There’s a reason people are raving about us." [level=2] [ref=e766]
+          - paragraph [ref=e768]: Join the multitude of people who have trusted MEDVi to help change their lives, achieving significant, lasting weight loss.
+        - generic [ref=e770]:
+          - group [ref=e772]:
+            - listitem [ref=e773]:
+              - img "MEDVi Customer Review" [ref=e778]
+            - listitem [ref=e779]:
+              - generic [ref=e782]:
+                - paragraph [ref=e786]: Billy
+                - paragraph [ref=e794]: "\"Ms. Gonzalez was great! She listened to my needs and provided details of the meds and any issues that rise.\""
+            - listitem [ref=e795]:
+              - generic [ref=e798]:
+                - paragraph [ref=e802]: Terika
+                - paragraph [ref=e810]: “The provider was knowledgeable and helpful. She answered all my questions and made me feel as if this was not our first time meeting. I was very comfortable and enjoyed our conversation.”
+            - listitem [ref=e811]:
+              - img "Review Ranking" [ref=e816]
+            - listitem [ref=e817]:
+              - generic [ref=e820]:
+                - paragraph [ref=e824]: Jamie
+                - paragraph [ref=e832]: "\"The questions are to the point and easy to navigate. I'm able to voice my concerns if needed and ask questions of MEDVi. They are quick to respond and keep me updated on my prescription.\""
+            - listitem [ref=e833]:
+              - generic [ref=e836]:
+                - paragraph [ref=e840]: Jacqueline
+                - paragraph [ref=e848]: "\"My experience is very positive. I am doing very well. Slowly and surely reaching my goals with MEDVis help. They have been very attentive and have provided me with all the resources to be successful. I can't ask for more. Thank you\""
+            - listitem [ref=e849]:
+              - generic [ref=e852]:
+                - paragraph [ref=e856]: Diana
+                - paragraph [ref=e864]: “The staff has been so friendly and caring. I didn't expect that! If I call, I get an immediate answer from a real person!”
+            - listitem [ref=e865]:
+              - img "Review Ranking" [ref=e870]
+            - listitem [ref=e871]:
+              - generic [ref=e874]:
+                - paragraph [ref=e878]: Donna
+                - paragraph [ref=e886]: ”The Physician was very knowledgeable and ready to answer all my concerns. She even told me about future checkups that will be needed throughout my journey.”
+          - group [ref=e888]:
+            - listitem [ref=e889]:
+              - generic [ref=e892]:
+                - paragraph [ref=e896]: Terri
+                - paragraph [ref=e904]: "\"Losing weight without a crazy diet, without cardio...it just felt like magic. I was a snacker, but not anymore. I feel so much better.\""
+            - listitem [ref=e905]:
+              - img "Review Image" [ref=e910]
+            - listitem [ref=e911]:
+              - generic [ref=e914]:
+                - paragraph [ref=e918]: Alexandra
+                - paragraph [ref=e926]: “Everything was quick and concise. I was treated professionally and given the opportunity to ask questions and have my questions answered thoroughly.”
+            - listitem [ref=e927]:
+              - generic [ref=e930]:
+                - paragraph [ref=e934]: Greg
+                - paragraph [ref=e942]: “I was ready to give up. Wow. I would pay 10x as much if I had to. Dieting days are over. Thanks to the guys at medvi for the metabolic fix - game changer.”
+            - listitem [ref=e943]:
+              - img "Review of Service" [ref=e948]
+            - listitem [ref=e949]:
+              - generic [ref=e952]:
+                - paragraph [ref=e956]: Lou-Ann
+                - paragraph [ref=e964]: “MEDVi Doctors & Staff have been very professional and prompt with any questions I have and their support & care. I feel in great hands! I'm 13lbs away from goal...Thank you!“
+            - listitem [ref=e965]:
+              - generic [ref=e968]:
+                - paragraph [ref=e972]: Elizabeth
+                - paragraph [ref=e980]: “My Clinician was kind, informative, gave a clear understanding of expectations, what was needed and future follow ups and doasge changes. Very easy to understand and helpful.”
+            - listitem [ref=e981]:
+              - img "Dan Review Ranking" [ref=e986]
+            - listitem [ref=e987]:
+              - generic [ref=e990]:
+                - paragraph [ref=e994]: Dan
+                - paragraph [ref=e1002]: “Dolores was very knowledgeable and very friendly she answered any questions I had. Very excited for my weight loss journey to begin”
+    - generic [ref=e1003]:
+      - generic [ref=e1004]:
+        - generic [ref=e1006]:
+          - img "Money Back Guarantee" [ref=e1010]
+          - paragraph [ref=e1013]: MEDVi guarantee
+        - generic [ref=e1015]:
+          - img "Fast, Free Shipping" [ref=e1019]
+          - paragraph [ref=e1022]: Free, expedited delivery
+        - generic [ref=e1024]:
+          - img "Doctor Led Plans" [ref=e1028]
+          - paragraph [ref=e1031]: Doctor-led plans & coaching
+        - generic [ref=e1033]:
+          - img "No Hidden Fees" [ref=e1037]
+          - paragraph [ref=e1040]: No hidden fees
+      - generic [ref=e1041]:
+        - generic [ref=e1043]:
+          - link [ref=e1044] [cursor=pointer]:
+            - /url: ./
+          - generic [ref=e1047]:
+            - generic [ref=e1048]:
+              - img "Email Us" [ref=e1051]
+              - paragraph [ref=e1054]: help@medvi.org
+            - generic [ref=e1055]:
+              - img "Call Us" [ref=e1058]
+              - paragraph [ref=e1061]: (323) 690-1564
+            - generic [ref=e1062]:
+              - img "Physical Address" [ref=e1065]
+              - paragraph [ref=e1068]: 131 Continental Dr. Ste 305, Newark, DE 19713
+        - generic [ref=e1069]:
+          - paragraph [ref=e1072]:
+            - text: "*The assessment made available on the MEDVi website does not create a doctor-patient relationship between the individual completing the assessment and MEDVi. OpenLoop Health, a network of US-licensed doctors that adhere to rigorous medical protocols designed for patient safety, has established exclusionary criteria to determine if an individual does not qualify for GLP-1s. The answers an individual provides to the MEDVi assessment consequently determine if the individual is screened out of eligibility for GLP-1 medication, and an OpenLoop Health clinician will meet with an individual after checkout to determine if they qualify for a prescription. OpenLoop Health clinicians retain the decision to prescribe compounded GLP-1s to patients."
+            - text: All claims and benefits on this website refer to self-reported data from GLP-1 customers on a treatment plan that includes compounded GLP-1 medications and consultations with medical professionals. Customers reported their weight on their initial medical intake questionnaire every 3-4 weeks thereafter. Results from compounded medications found on the MEDVi platform may vary and be affected by an individual's adherence to the program and their clinician's recommendations. Compounded GLP-1s are produced in FDA-regulated facilities. Although these facilities are highly regulated, the medications are not FDA-approved or evaluated for safety, efficacy, or quality. The decision to use compounded drugs is guided by the licensed provider's medical judgment, which is informed by a telehealth consultation and medical history.
+            - text: We encourage all prospective users of compounded medications to speak with their provider about the specific risks and benefits that may come with the use of compounded medication. MEDVi does not produce compounded medications, and individuals may receive medication that looks different than what is portrayed on the website.
+          - paragraph [ref=e1075]:
+            - text: Pharmacy Providers
+            - text: We are partnered with multiple USA certified pharmacies to bring the best product and overall experience to our membership. Our team meets regularly with pharmacies to discuss any product shortages, shipping delays, and get updated reports on their medication testing.
+          - paragraph [ref=e1078]: "*Results vary based on starting weight and program adherence. Inches lost from hips, waist, chest, thighs and arms in the first month. Patients exercised daily and ate a reduced-calorie diet. Their fat loss is not typical. Results may vary. Medication prescriptions are at the discretion of medical providers and may not be suitable for everyone. MEDVi patients typically result in 1-2 lbs per week weight loss after 4 weeks, involving a healthy diet and exercise changes. Consult a healthcare professional before using medication or starting any weight loss program. *Based on the average weight loss as reported by patients without diabetes who reached and maintained a dose of 2.4 mg/week of GLP-1 treatment, along with a reduced-calorie diet and increased physical activity."
+          - paragraph [ref=e1081]: Medication is included in the cost of the MEDVi Program. Wegovy® is FDA-approved for weight loss. Ozempic® is FDA-approved for type 2 diabetes treatment but may be prescribed for weight loss. The trademarks, service marks, trade names (Wegovy® ,Ozempic®), and products displayed on this Internet site are protected and belong to their respetive owners. Medical treatment is provided by “CareGLP Affiliated P.C.s,” and OpenLoop Health, affiliated networks for medical professional corporations and associations. No data, photos, claims or any other information is associated with results derived from clinical trials, studies or public information and is always representative of MEDVi patient experience.
+          - generic [ref=e1083]:
+            - paragraph [ref=e1084]: Certain materials on this website, including text, images, and other media, may be generated or enhanced using artificial intelligence technologies. No representation or warranty is made regarding the accuracy, completeness, or reliability of such content. Individuals appearing in advertisements may be actors or models.
+            - paragraph [ref=e1085]: Testimonials on the website are from MEDVi patients. For patient privacy, images representing those testimonials may use models.
+            - paragraph [ref=e1086]: "By accepting our Terms of Use, you additionally understand and agree that MEDVi is not acting as a pharmacy, nor does MEDVi control or interfere with any such services. By accepting these Terms of Use, you understand and agree that you may be entering into a relationship with a pharmacy, pharmacist, and/or pharmacy group or other such relationship with any one or more such third-party entities. Partner pharmacies include:"
+            - paragraph [ref=e1087]: Triad Rx
+            - list [ref=e1088]:
+              - listitem [ref=e1089]:
+                - text: •
+                - paragraph [ref=e1090]:
+                  - link "https://www.triadrx.us" [ref=e1091] [cursor=pointer]:
+                    - /url: https://www.triadrx.us/
+              - listitem [ref=e1092]:
+                - text: •
+                - paragraph [ref=e1093]: "Address: 26258 Pollard Rd, Daphne, AL 36526"
+              - listitem [ref=e1094]:
+                - text: •
+                - paragraph [ref=e1095]: "Phone: (251) 380-7630"
+            - paragraph [ref=e1096]: RedRock Pharmacy
+            - list [ref=e1097]:
+              - listitem [ref=e1098]:
+                - text: •
+                - paragraph [ref=e1099]:
+                  - link "https://www.redrockhomepharmacy.com/" [ref=e1100] [cursor=pointer]:
+                    - /url: https://www.redrockhomepharmacy.com/
+              - listitem [ref=e1101]:
+                - text: •
+                - paragraph [ref=e1102]: "Address: 1240 E 100 S #220, St. George, UT 84790"
+              - listitem [ref=e1103]:
+                - text: •
+                - paragraph [ref=e1104]: "Phone: (801) 433-9500"
+            - paragraph [ref=e1105]: Beaker Pharmacy & Compounding
+            - list [ref=e1106]:
+              - listitem [ref=e1107]:
+                - text: •
+                - paragraph [ref=e1108]:
+                  - link "https://beakerpharmacy.com/beakerpharmacy-compounding" [ref=e1109] [cursor=pointer]:
+                    - /url: https://beakerpharmacy.com/beakerpharmacy-compounding
+              - listitem [ref=e1110]:
+                - text: •
+                - paragraph [ref=e1111]: "Address: 7810 Eldorado Pkwy STE 200, McKinney, TX 75072"
+              - listitem [ref=e1112]:
+                - text: •
+                - paragraph [ref=e1113]: "Phone: (972) 972-4700"
+        - generic [ref=e1116]:
+          - paragraph [ref=e1118]: © 2026 MEDVi. All rights reserved
+          - generic [ref=e1119]:
+            - link "Terms & Conditions" [ref=e1120] [cursor=pointer]:
+              - /url: ./terms-and-conditions
+              - paragraph [ref=e1122]: Terms & Conditions
+            - link "Privacy Policy" [ref=e1123] [cursor=pointer]:
+              - /url: ./privacy-policy
+              - paragraph [ref=e1125]: Privacy Policy
+            - link "Privacy Practices" [ref=e1126] [cursor=pointer]:
+              - /url: ./notice-of-privacy-practices
+              - paragraph [ref=e1128]: Privacy Practices
+            - link "Refund Policy" [ref=e1129] [cursor=pointer]:
+              - /url: ./cancellation-and-refund-policy
+              - paragraph [ref=e1131]: Refund Policy
+            - link "Medical Consent" [ref=e1132] [cursor=pointer]:
+              - /url: ./medical-consent
+              - paragraph [ref=e1134]: Medical Consent
+            - link "For California Residents" [ref=e1135] [cursor=pointer]:
+              - /url: ./privacy-statement-california
+              - paragraph [ref=e1137]: For California Residents
+            - link "Bill of Rights" [ref=e1138] [cursor=pointer]:
+              - /url: ./bill-of-rights
+              - paragraph [ref=e1140]: Bill of Rights
+        - link "Verify Approval for www.medvi.org" [ref=e1142] [cursor=pointer]:
+          - /url: https://www.legitscript.com/websites/?checker_keywords=medvi.org
+          - img "Verify Approval for www.medvi.org" [ref=e1144]
+  - img [ref=e1145]
+  - img [ref=e1152]

@@ -1,0 +1,333 @@
+- generic [ref=e1]:
+  - dialog "Cookie Consent Banner" [ref=e2]:
+    - button "Close this dialog" [active] [ref=e3] [cursor=pointer]:
+      - img "Close this dialog" [ref=e4]
+    - generic [ref=e5]:
+      - generic [ref=e6]: We use cookies and similar technologies - you may change your setting at any time. You may close this banner to continue with only essential cookies.
+      - link "Privacy Policy" [ref=e7] [cursor=pointer]:
+        - /url: https://patient.thirtymadison.com/dashboard/legals/privacy
+    - generic [ref=e8]:
+      - button "Manage Preferences" [ref=e9] [cursor=pointer]
+      - button "Accept All" [ref=e10] [cursor=pointer]
+      - button "Reject Non-Essential" [ref=e11] [cursor=pointer]
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - navigation "main" [ref=e15]:
+        - list [ref=e16]:
+          - link "keeps-crown logo" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e18]:
+              - img "keeps-crown" [ref=e21]
+              - img "logo" [ref=e24]
+          - list [ref=e25]:
+            - listitem [ref=e26] [cursor=pointer]:
+              - generic [ref=e27]:
+                - text: Hair Loss
+                - img "dropdown" [ref=e28]
+            - listitem [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]:
+                - text: Sexual Health
+                - img "dropdown" [ref=e31]
+            - listitem [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]:
+                - text: learn
+                - img "dropdown" [ref=e34]
+            - listitem [ref=e35] [cursor=pointer]:
+              - link "Reviews" [ref=e36]:
+                - /url: /reviews
+                - generic [ref=e38]: Reviews
+        - list [ref=e39]:
+          - listitem [ref=e40]:
+            - button "Get Started" [ref=e41]:
+              - generic [ref=e44]: Get Started
+          - listitem [ref=e45]:
+            - button "sign-in Sign In" [ref=e46]:
+              - generic [ref=e47]:
+                - img "sign-in" [ref=e49]
+                - generic [ref=e51]: Sign In
+          - listitem [ref=e52]:
+            - button "cart2 Cart" [ref=e53]:
+              - generic [ref=e54]:
+                - img "cart2" [ref=e56]
+                - generic [ref=e58]: Cart
+      - generic [ref=e59]:
+        - img "hero1" [ref=e60]
+        - generic [ref=e62]:
+          - heading "HAIR LOSS STOPS WITH US" [level=1] [ref=e63]:
+            - text: HAIR LOSS
+            - text: STOPS WITH US
+          - paragraph [ref=e65]: FDA-approved treatments delivered to your door.
+          - button "Get Started" [ref=e66]
+        - img "hero2" [ref=e67]
+      - generic [ref=e68]:
+        - paragraph [ref=e69]: New to Keeps
+        - paragraph [ref=e70]: Sexual Health
+        - paragraph [ref=e71]: Take control of your sexual health with a personalized, expert-recommended treatment plan.*
+        - paragraph [ref=e72]: "*Individual results may vary."
+        - generic [ref=e74]:
+          - img "one hand over another person's hand" [ref=e75]
+          - generic [ref=e77]:
+            - paragraph [ref=e78]: Erectile dysfunction
+            - paragraph [ref=e79]: Elevate intimacy with expert-recommended relief
+            - generic [ref=e80]:
+              - button "Get Started" [ref=e81]
+              - button "Learn More" [ref=e82]
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e87]: New
+          - paragraph [ref=e88]: Defend your hair
+          - paragraph [ref=e89]: Boost hair regrowth with our doctor-recommended saw palmetto supplement.
+        - img "image of Defend your hair" [ref=e91]
+        - generic [ref=e92]:
+          - link "LEARN MORE" [ref=e93] [cursor=pointer]:
+            - /url: /our-products/daily-hair-defense-supplement
+            - generic [ref=e94]: LEARN MORE
+          - link "SEE ALL OUR PRODUCTS arrow" [ref=e95] [cursor=pointer]:
+            - /url: /our-products
+            - generic [ref=e96]:
+              - text: SEE ALL OUR PRODUCTS
+              - img "arrow" [ref=e98]
+      - generic [ref=e99]:
+        - img "topical-fin-and-minox-gel" [ref=e101]
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e107]: New
+            - paragraph [ref=e109]:
+              - text: Keeping your hair
+              - text: has never been easier
+            - paragraph [ref=e111]:
+              - text: Get two clinically-proven products
+              - text: in a once-daily gel.
+          - generic [ref=e112]:
+            - button "LEARN MORE" [ref=e113]
+            - generic [ref=e114] [cursor=pointer]:
+              - paragraph [ref=e115]: See all our products
+              - img "arrow" [ref=e117]
+      - generic [ref=e121]:
+        - img "rabbit-in-hat" [ref=e122]
+        - paragraph [ref=e123]: There’s no magic cure for baldness
+        - paragraph [ref=e124]: But you can prevent hair loss from happening in the first place. The earlier you take action, the more hair you’ll keep.
+      - generic [ref=e127]:
+        - paragraph [ref=e128]: How Keeps works
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - img "shield" [ref=e132]
+            - paragraph [ref=e133]: 1. Pick your plan
+            - paragraph [ref=e134]: Pick the clinically-proven treatment that's right for you. A licensed medical provider will confirm it's everything you need.
+          - generic [ref=e136]:
+            - img "box" [ref=e138]
+            - paragraph [ref=e139]: 2. Get it delivered
+            - paragraph [ref=e140]: Your Keeps treatment arrives at your door every three, six, or twelve months—at a fraction of the cost of your local pharmacy.
+          - generic [ref=e142]:
+            - img "hairbrush" [ref=e144]
+            - paragraph [ref=e145]: 3. Keep your hair
+            - paragraph [ref=e146]: Easily track progress as you experience less hair loss and hair regrowth. Adjust, pause, or cancel your plan at any time.
+      - generic [ref=e152]:
+        - paragraph [ref=e153]: Why Keeps?
+        - paragraph [ref=e154]: 2 out of 3 guys will experience hair loss by the age of 35. There is no magic cure for baldness but you can prevent hair loss from happening in the first place. Take action today with our scientific and affordable approach.
+        - list [ref=e155]:
+          - listitem [ref=e156]:
+            - img "checkmark-red" [ref=e158]
+            - paragraph [ref=e159]: Less than you’d pay at your local pharmacy
+          - listitem [ref=e160]:
+            - img "checkmark-red" [ref=e162]
+            - paragraph [ref=e163]: Clinically-proven treatments and science-backed formulas
+          - listitem [ref=e164]:
+            - img "checkmark-red" [ref=e166]
+            - paragraph [ref=e167]: Free one-time consultation for your new purchase to ensure your treatment plan is right for you
+          - listitem [ref=e168]:
+            - img "checkmark-red" [ref=e170]
+            - paragraph [ref=e171]: Shipped and delivered directly to your door
+        - link "pick my plan" [ref=e173] [cursor=pointer]:
+          - /url: /our-products
+          - button "pick my plan" [ref=e174]
+      - generic [ref=e177]:
+        - generic [ref=e178]:
+          - heading "Half the cost" [level=2] [ref=e179]:
+            - text: Half
+            - text: the cost
+          - paragraph [ref=e180]: Good news. You don’t have to go broke to avoid going bald. By selling directly to you, we keep the cost of your treatments and provider consultations as affordable as possible.
+        - table [ref=e182]:
+          - row "Treatment Other Guys Keeps" [ref=e183]:
+            - columnheader "Treatment" [ref=e184]
+            - columnheader "Other Guys" [ref=e185]
+            - columnheader "Keeps" [ref=e186]
+          - row "FINASTERIDE (Rx) Generic Propecia® $65/mo $25/mo" [ref=e187]:
+            - cell "FINASTERIDE (Rx) Generic Propecia®" [ref=e188]:
+              - generic [ref=e189]:
+                - generic [ref=e190]: FINASTERIDE (Rx)
+                - generic [ref=e191]:
+                  - text: Generic Propecia
+                  - superscript [ref=e192]: ®
+            - cell "$65/mo" [ref=e193]
+            - cell "$25/mo" [ref=e194]
+          - row "MINOXIDIL (OTC) Generic Rogaine® $18/mo $10/mo" [ref=e195]:
+            - cell "MINOXIDIL (OTC) Generic Rogaine®" [ref=e196]:
+              - generic [ref=e197]:
+                - generic [ref=e198]: MINOXIDIL (OTC)
+                - generic [ref=e199]:
+                  - text: Generic Rogaine
+                  - superscript [ref=e200]: ®
+            - cell "$18/mo" [ref=e201]
+            - cell "$10/mo" [ref=e202]
+          - row "PROVIDER CONSULTATION $100+ per visit First visit free $5 per visit thereafter" [ref=e203]:
+            - cell "PROVIDER CONSULTATION" [ref=e204]:
+              - generic [ref=e206]: PROVIDER CONSULTATION
+            - cell "$100+ per visit" [ref=e207]
+            - cell "First visit free $5 per visit thereafter" [ref=e208]:
+              - text: First visit free
+              - generic [ref=e209]: $5 per visit thereafter
+        - paragraph [ref=e211]:
+          - text: Already been to a doctor and know what you want?
+          - link "Buy treatment" [ref=e212] [cursor=pointer]:
+            - /url: /our-products
+            - button "Buy treatment" [ref=e213]
+          - text: from us today at half the price you would pay at your local pharmacy.
+      - generic [ref=e216]:
+        - heading "Time to take action" [level=1] [ref=e217]:
+          - text: Time to
+          - text: take action
+        - paragraph [ref=e218]: Choose the doctor-recommended treatment plan that's right for you, at half the cost of your local pharmacy.
+        - button "get started" [ref=e219]
+      - generic [ref=e222]:
+        - generic [ref=e223]:
+          - heading "Real results" [level=6] [ref=e224]
+          - heading "Meet the Men of Action" [level=3] [ref=e225]:
+            - text: Meet the
+            - text: Men of Action
+        - text: ← →
+        - generic [ref=e227]:
+          - generic [ref=e228]:
+            - img "\"My hair is a huge part of what makes me Paul. It would suck to lose it! That's why I started using Keeps.\" - Paul, 30, NY" [ref=e229]
+            - generic [ref=e230]:
+              - blockquote [ref=e231]:
+                - paragraph [ref=e232]: "\"My hair is a huge part of what makes me Paul. It would suck to lose it! That's why I started using Keeps.\""
+              - generic [ref=e233]: "- Paul, 30, NY"
+          - generic [ref=e234]:
+            - img "\"I knew hair loss would start at some point as I approached 30. It was great that Keeps made it easy to start early. Happy with the results so far!\" - Anton, 28, CA" [ref=e235]
+            - generic [ref=e236]:
+              - blockquote [ref=e237]:
+                - paragraph [ref=e238]: "\"I knew hair loss would start at some point as I approached 30. It was great that Keeps made it easy to start early. Happy with the results so far!\""
+              - generic [ref=e239]: "- Anton, 28, CA"
+          - generic [ref=e240]:
+            - img "\"It was after my last haircut that I really realized I was starting to lose my hair. It kind of freaked me out at first, but then I found Keeps. The whole process is super easy and has been a great experience - highly recommend!\" - Sho, 31, IL" [ref=e241]
+            - generic [ref=e242]:
+              - blockquote [ref=e243]:
+                - paragraph [ref=e244]: "\"It was after my last haircut that I really realized I was starting to lose my hair. It kind of freaked me out at first, but then I found Keeps. The whole process is super easy and has been a great experience - highly recommend!\""
+              - generic [ref=e245]: "- Sho, 31, IL"
+          - generic [ref=e246]:
+            - img "\"I think I know why they call it Keeps - because my hair isn't going anywhere! Love this company!\" - Nick, 27, TX" [ref=e247]
+            - generic [ref=e248]:
+              - blockquote [ref=e249]:
+                - paragraph [ref=e250]: "\"I think I know why they call it Keeps - because my hair isn't going anywhere! Love this company!\""
+              - generic [ref=e251]: "- Nick, 27, TX"
+      - generic [ref=e253]:
+        - img "keeps-crown-white" [ref=e255]
+        - generic [ref=e256]:
+          - generic [ref=e257]:
+            - list [ref=e258]:
+              - listitem [ref=e259]:
+                - paragraph [ref=e260]:
+                  - link "Get Started" [ref=e261] [cursor=pointer]:
+                    - /url: /quiz
+              - listitem [ref=e262]:
+                - paragraph [ref=e263]:
+                  - link "Our Products" [ref=e264] [cursor=pointer]:
+                    - /url: /our-products
+              - listitem [ref=e265]:
+                - paragraph [ref=e266]:
+                  - link "Hair Loss 101" [ref=e267] [cursor=pointer]:
+                    - /url: /hair-loss
+              - listitem [ref=e268]:
+                - paragraph [ref=e269]:
+                  - link "Learn" [ref=e270] [cursor=pointer]:
+                    - /url: /learn
+            - list [ref=e271]:
+              - listitem [ref=e272]:
+                - paragraph [ref=e273]:
+                  - link "Our Story" [ref=e274] [cursor=pointer]:
+                    - /url: /about-us
+              - listitem [ref=e275]:
+                - paragraph [ref=e276]:
+                  - link "FAQs" [ref=e277] [cursor=pointer]:
+                    - /url: /faq
+              - listitem [ref=e278]:
+                - paragraph [ref=e279]:
+                  - link "Contact" [ref=e280] [cursor=pointer]:
+                    - /url: /contact
+              - listitem [ref=e281]:
+                - paragraph [ref=e282]:
+                  - link "Press" [ref=e283] [cursor=pointer]:
+                    - /url: /press
+              - listitem [ref=e284]:
+                - paragraph [ref=e285]:
+                  - link "Careers" [ref=e286] [cursor=pointer]:
+                    - /url: /careers
+          - generic [ref=e287]:
+            - paragraph [ref=e288]: Keep in the loop
+            - generic [ref=e289]:
+              - textbox "Your Email" [ref=e290]
+              - button "Submit" [ref=e291]
+            - paragraph [ref=e292]: Thanks! You've signed up successfully.
+        - generic [ref=e293]:
+          - generic [ref=e294]:
+            - link "instagram" [ref=e295] [cursor=pointer]:
+              - /url: https://www.instagram.com/keeps
+              - img "instagram" [ref=e297]
+            - link "facebook" [ref=e298] [cursor=pointer]:
+              - /url: https://www.facebook.com/getkeeps
+              - img "facebook" [ref=e300]
+            - link "twitter" [ref=e301] [cursor=pointer]:
+              - /url: https://twitter.com/getkeeps
+              - img "twitter" [ref=e303]
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - paragraph [ref=e306]:
+                - link "Thirty Madison" [ref=e307] [cursor=pointer]:
+                  - /url: https://thirtymadison.com/
+              - generic [ref=e308]:
+                - paragraph [ref=e309]:
+                  - link "Keeps" [ref=e310] [cursor=pointer]:
+                    - /url: https://www.keeps.com/
+                - paragraph [ref=e311]:
+                  - link "Cove" [ref=e312] [cursor=pointer]:
+                    - /url: https://www.withcove.com/
+                - paragraph [ref=e313]:
+                  - link "Facet" [ref=e314] [cursor=pointer]:
+                    - /url: https://facet.thirtymadison.com/
+                - paragraph [ref=e315]:
+                  - link "Nurx" [ref=e316] [cursor=pointer]:
+                    - /url: https://www.nurx.com
+            - generic [ref=e317]:
+              - paragraph [ref=e318]: © 2026 Keeps
+              - generic [ref=e319]:
+                - paragraph [ref=e320]:
+                  - link "Privacy" [ref=e321] [cursor=pointer]:
+                    - /url: https://patient.thirtymadison.com/dashboard/legals/privacy
+                - paragraph [ref=e322]:
+                  - link "Terms" [ref=e323] [cursor=pointer]:
+                    - /url: https://patient.thirtymadison.com/dashboard/legals/terms-and-conditions
+                - paragraph [ref=e324]:
+                  - link "Informed Consent" [ref=e325] [cursor=pointer]:
+                    - /url: https://patient.thirtymadison.com/dashboard/legals/informed-consent
+                - paragraph [ref=e326]:
+                  - link "Accessibility" [ref=e327] [cursor=pointer]:
+                    - /url: https://patient.thirtymadison.com/dashboard/legals/accessibility
+                - paragraph [ref=e328]:
+                  - link "Returns" [ref=e329] [cursor=pointer]:
+                    - /url: /faq/what-is-the-keeps-refund-and-return-policy
+                - paragraph [ref=e330]:
+                  - link "Shipping" [ref=e331] [cursor=pointer]:
+                    - /url: /faq/category/orders-and-shipping
+            - paragraph [ref=e334]:
+              - link "Your Privacy Choices" [ref=e335] [cursor=pointer]:
+                - /url: /#your-privacy-choices
+    - generic [ref=e336]:
+      - button "cart-close" [ref=e338]:
+        - img "cart-close" [ref=e340]
+      - paragraph [ref=e341]: My Cart
+      - img "loader-black" [ref=e345]
+    - button "Support" [ref=e347]:
+      - img [ref=e348]
+      - generic [ref=e353]: Support
+  - alert [ref=e354]

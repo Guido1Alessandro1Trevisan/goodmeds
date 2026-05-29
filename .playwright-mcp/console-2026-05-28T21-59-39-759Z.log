@@ -1,0 +1,8 @@
+[    1108ms] [INFO] {msg: isProduction returned true, payload: true} @ https://www.keeps.com/_next/static/chunks/pages/_app-5a9b9154b6b303ff.js:0
+[    1114ms] [WARNING] Datadog Browser SDK: version value doesn't meet tag requirements and will be sanitized. More details: https://docs.datadoghq.com/getting_started/tagging/#defining-tags @ https://www.keeps.com/_next/static/chunks/pages/_app-5a9b9154b6b303ff.js:0
+[    1115ms] [WARNING] Datadog Browser SDK: No storage available for session. We will not send any data. @ https://www.keeps.com/_next/static/chunks/pages/_app-5a9b9154b6b303ff.js:0
+[    1115ms] [INFO] Successfully initialized datadog-rum @ https://www.keeps.com/_next/static/chunks/pages/_app-5a9b9154b6b303ff.js:0
+[    1488ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.secureoffer.io/?v=1.0.0&h=theoffer.io&u=aHR0cHMlM0ElMkYlMkZ3d3cua2VlcHMuY29tJTJG&r=&s=7ERHIWYD92L98iAfQ2KSBS&i=undefined&e=LandingPage&c=JTdCJTdE:0
+[    1537ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[    7349ms] [WARNING] The resource https://www.keeps.com/styles/keeps-2.0.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.keeps.com/:0
+[   11155ms] [LOG] Download the Apollo DevTools for a better development experience: %s https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm @ https://us-assets.i.posthog.com/static/posthog-recorder.js?v=1.299.0:0
